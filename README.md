@@ -1,6 +1,6 @@
 # Issues
 
-**TODO: Add description**
+** Fetch issues for a given Github project using Elixir Programming Language. Example extracted from Programming Elixir 1.2 
 
 ## Installation
 
